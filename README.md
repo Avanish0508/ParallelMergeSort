@@ -14,6 +14,8 @@ Thread Pool: Efficiently manages threads to avoid the overhead of frequent threa
 
 Performance Benchmarking: Compares execution time between traditional Merge Sort and the parallel implementation.
 
+
+
 ⚙️ Implementation Details
 
 
@@ -25,6 +27,8 @@ Parallel Sorting: Sorts subarrays in parallel using multiple threads.
 
 Merging: Combines sorted subarrays into the final sorted array.
 
+
+
 🧵 Thread Pool
 
 
@@ -33,7 +37,7 @@ A thread pool is used to manage and synchronize threads efficiently. This minimi
 📊 Performance Comparison
 
 
-Benchmark tests on a MacBook M1 Pro show a clear advantage of the parallel approach:
+Benchmark tests on a LENOVO Ideapad Gaming 3 Laptop show a clear advantage of the parallel approach:
 
 Standard Merge Sort: ~25 seconds
 
