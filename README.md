@@ -59,7 +59,7 @@ Edit
 git clone <repo-url>
 
 # Navigate to project directory
-cd parallelMergeSort/src/app
+cd parallelMergeSort
 
 # Compile and run
 g++ main.cpp -o main
